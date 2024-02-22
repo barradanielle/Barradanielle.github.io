@@ -68,8 +68,8 @@ h1 {
 }
  h2 {
      font-size:48px;
-     letter-spacing: .4px;
-     font-weight :normal;
+     letter-spacing:.4px;
+     font-weight:normal;
      color:red;
      font-weight:normal;
      text-align:center;
@@ -77,15 +77,15 @@ h1 {
  }
  h3 {
     font-size:32rem;
-    font-weight: normal;
-    text-shadow: none;
+    font-weight:normal;
+    text-shadow:none;
     text-align:center;
  }
 h4  {
     font-size:24px;
-    font-weight: normal;
-    letter-spacing: 4px;
-    bottom padding: 18px;
+    font-weight:normal;
+    letter-spacing:4px;
+    bottom padding:18px;
     text-align:center;
 }
          
@@ -94,7 +94,7 @@ h4  {
  
 h5  {
     font-size:16px;
-    margin-top : 4px;
+    margin-top:4px;
     padding-bottom:8px;
     padding-left:8px;
     padding-right:8px;
@@ -115,11 +115,11 @@ p{
     margin-top:16px;
     margin-left:auto;
     margin-right:auto;
-    padding-top :0;
+    padding-top:0;
     padding-bottom:0;
     padding-left:16px;
     padding-right:16px;
-    width :90%;
+    width:90%;
 
     
 }
