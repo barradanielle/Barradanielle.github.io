@@ -79,6 +79,7 @@ h1 {
     font-weight:normal;
     text-shadow:no;
     text-align:center;
+    foreground-color:back;
  }
 h4  {
     font-size:24px;
