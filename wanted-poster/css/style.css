@@ -77,9 +77,11 @@ h1 {
  }
  h3 {
      text-align:center;
-     font-size: 32px;
+     font-size: 32rem;
      font-weight:normal;
      foreground:black;
+     text-shadow: none;
+     
  }
 h4  {
     text-align:center;
