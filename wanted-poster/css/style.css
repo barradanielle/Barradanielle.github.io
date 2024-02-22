@@ -147,8 +147,8 @@ footer{
     
    padding-bottom:16rem;
    padding-left:16rem;
-    padding-top:16rem;
-    padding-right:16rem;
+    padding-top:16;
+    padding-right:16px;
    border-top:solid #333 32px;
    
 }
