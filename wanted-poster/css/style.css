@@ -43,8 +43,17 @@ main {
 
 /* ------ START WRITING YOUR CODE BELOW THIS LINE ------ */
 
+/* NO changes should be made to any of the code above. */
 
-/* Heading */
+/* The first heading style rule has been completed for you. Examine it carefully
+   to get an idea of some of the style properties you will need to use; then
+   complete the style code according to the instructions in Canvas. */
+
+/* NOTE: While you will be using some of the same CSS properties, the VALUES 
+   may need to be different in order to style the page correctly. */
+
+
+/* Headings  */
 
 h1 {
     text-transform: uppercase;
@@ -73,10 +82,10 @@ h1 {
     text-align:center;
  }
 h4  {
-    font-size: 24rem;
+    font-size: 24px;
     font-weight: normal;
-    letter-spacing: 4rem;
-    bottom padding: 18rem;
+    letter-spacing: 4px;
+    bottom padding: 18px;
     text-align:center;
 }
          
@@ -84,12 +93,12 @@ h4  {
  
  
 h5  {
-    font-size: 16rem;
-    margin-top : 4rem;
-    padding-bottom:8rem;
-    padding-left:8rem;
-    padding-right:8rem;
-    padding-top:8rem;
+    font-size: 16px;
+    margin-top : 4px;
+    padding-bottom:8px;
+    padding-left:8px;
+    padding-right:8px;
+    padding-top:8px;
     background-color:black;
     color:white;
     text-align:center;
@@ -98,18 +107,18 @@ h5  {
      }
 /* Section & Paragraph */
 Section {
-    margin-top:8rem;
+    margin-top:8px;
 }
 
 p{
-    margin-bottom:16rem;
-    margin-top:16rem
+    margin-bottom:16px;
+    margin-top:16px;
     margin-left:auto;
     margin-right:auto;
     padding-top :0;
     padding-bottom:0;
-    padding-left:16rem;
-    padding-right:16rem;
+    padding-left:16px;
+    padding-right:16px;
     width :90%;
 
     
@@ -119,8 +128,8 @@ p{
 /* Image & Figure */
 img{
      width:100%;
-     margin-bottom:0rem;
-     margin-top:0rem;
+     margin-bottom:0px;
+     margin-top:0px;
     margin-left:auto;
     margin-right:auto; 
     
@@ -129,11 +138,11 @@ img{
         }
 
 Figure{
-     margin-bottom:32rem;    
+     margin-bottom:32px;    
        }
        
 figcaption {
-    padding-top:8rem; 
+    padding-top:8px; 
     text-align:right;
     
     
@@ -145,9 +154,9 @@ figcaption {
 
 footer{
     
-   padding-bottom:16rem;
-   padding-left:16rem;
-    padding-top:16;
+   padding-bottom:16px;
+   padding-left:16px;
+    padding-top:16px;
     padding-right:16px;
    border-top:solid #333 32px;
    
