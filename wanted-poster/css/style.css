@@ -76,9 +76,16 @@ h1 {
      
  }
  h3 {
-     text-align:center;
+    font-size: 32rem;
+    font-weight: normal;
+    text-shadow: none;
+    text-align:center;
  }
 h4  {
+    font-size: 24rem;
+    font-weight: normal;
+    letter-spacing: 4rem;
+    bottom padding: 18rem;
     text-align:center;
 }
          
