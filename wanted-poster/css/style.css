@@ -130,7 +130,6 @@ p{
 /* Image & Figure */
 img{
      width:100%;
-     max-width: 800rem;
      margin-bottom:0px;
      margin-top:0px;
     margin-left:auto;
@@ -138,7 +137,7 @@ img{
     
     
      
-        }
+       }
 
 Figure{
      margin-bottom:32rem;    
@@ -156,7 +155,7 @@ figcaption {
 
 
 footer{
-    
+
    padding-bottom:16rem;
    padding-left:16rem;
     padding-top:16rem;
