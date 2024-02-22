@@ -38,6 +38,7 @@ main {
     background-size:cover;
     background-repeat: no-repeat;
     border:1px solid #333;
+    
 }
 
 /* ------ START WRITING YOUR CODE BELOW THIS LINE ------ */
@@ -63,17 +64,94 @@ h1 {
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
+    color:red;
+}
+ h2 {
+     font-size:48px;
+     letter-spacing: .4px;
+     font-weight :normal;
+     color:red;
+     font-weight:normal;
+     text-align:center;
+     
+ }
+ h3 {
+     text-align:center;
+ }
+h4  {
+    text-align:center;
+}
+         
+ 
+ 
+ 
+h5  {
+    font-size: 16px;
+    margin-top : 4px;
+    padding-bottom:8px;
+    padding-left:8px;
+    padding-right:8px;
+    padding-top:8px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    
+    
+     }
+/* Section & Paragraph */
+Section {
+    margin-top:8px;
+}
+
+p{
+    margin-bottom:16px;
+    margin-top:16px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top :0;
+    padding-bottom:0;
+    padding-left:16px;
+    padding-right:16px;
+    width :90%;
+
+    
 }
 
 
-/* Section & Paragraph */
-
-
-
 /* Image & Figure */
+img{
+     width:100%;
+     margin-bottom:0px;
+     margin-top:0px;
+    margin-left:auto;
+    margin-right:auto; 
+    
+    
+     
+        }
 
-
+Figure{
+     margin-bottom:32px;    
+       }
+       
+figcaption {
+    padding-top:8px; 
+    text-align:right;
+    
+    
+    
+           }
 
 /* Footer */
 
+
+footer{
+    
+   padding-bottom:16px;
+   padding-left:16px;
+    padding-top:16px;
+    padding-right:16px;
+   border-top:solid #333 32px;
+   
+}
 
