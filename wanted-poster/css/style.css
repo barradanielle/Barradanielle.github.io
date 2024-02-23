@@ -79,7 +79,7 @@ h1 {
     font-weight:normal;
     text-shadow:no;
     text-align:center;
-    foreground-color:bac;
+    foreground-color:back;
  }
 h4  {
     font-size:24rem;
@@ -87,6 +87,7 @@ h4  {
     font-weight: 4rem;
     bottom padding:18rem;
     text-align:center;
+    color: darkred;
 } 
 h5  {
     font-size:16rem;
