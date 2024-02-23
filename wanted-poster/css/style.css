@@ -67,34 +67,34 @@ h1 {
     color:red;
 }
  h2 {
-     font-size:48rem;
-     letter-spacing:.4rem;
+     font-size:48px;
+     letter-spacing:.4px;
      font-weight:normal;
      color:red;
      font-weight:normal;
      text-align:center;     
  }
  h3 {
-    font-size:32rem;
+    font-size:32px;
     font-weight:normal;
     text-shadow:no;
     text-align:center;
-    foreground-color:back;
+    foreground-color:black;
  }
 h4  {
-    font-size:24rem;
-    letter-spacing:4rem;
-    font-weight: 4rem;
-    bottom padding:18rem;
+    font-size:24px;
+    letter-spacing:4px;
+    font-weight: 4px;
+    bottom padding:18px;
     text-align:center;
 } 
 h5  {
-    font-size:16rem;
-    margin-top:4rem;
-    padding-bottom:8rem;
-    padding-left:8rem;
-    padding-right:8rem;
-    padding-top:8rem;
+    font-size:16px;
+    margin-top:4px;
+    padding-bottom:8px;
+    padding-left:8px;
+    padding-right:8px;
+    padding-top:8px;
     background-color:black;
     color:white;
     text-align:center;
@@ -103,18 +103,18 @@ h5  {
      }
 /* Section & Paragraph */
 Section {
-    margin-top:8rem;
+    margin-top:8px;
 }
 
 p{
-    margin-bottom:16rem;
-    margin-top:16rem;
+    margin-bottom:16px;
+    margin-top:16px;
     margin-left:auto;
     margin-right:auto;
     padding-top:0;
     padding-bottom:0;
-    padding-left:16rem;
-    padding-right:16rem;
+    padding-left:16px;
+    padding-right:16px;
     width:90%;
 
     
@@ -124,8 +124,8 @@ p{
 /* Image & Figure */
 img{
      width:100%;
-     margin-bottom:0rem;
-     margin-top:0rem;
+     margin-bottom:0px;
+     margin-top:0px;
     margin-left:auto;
     margin-right:auto; 
     
@@ -134,11 +134,11 @@ img{
         }
 
 Figure{
-     margin-bottom:32rem;    
+     margin-bottom:32px;    
        }
        
 figcaption {
-    padding-top:8rem; 
+    padding-top:8px; 
     text-align:right;
     
     
@@ -150,10 +150,10 @@ figcaption {
 
 footer{
     
-   padding-bottom:16rem;
-   padding-left:16rem;
-    padding-top:16rem;
+   padding-bottom:16px;
+   padding-left:16px;
+    padding-top:16px;
     padding-right:16px;
-   border-top:solid #333 32rem;
+   border-top:solid #333 32px;
    
 }
