@@ -115,25 +115,20 @@ p{
     padding-bottom:0;
     padding-left:16px;
     padding-right:16px;
-    width:90%;
-
-    
+    width:90%;   
 }
 
 
 /* Image & Figure */
-img{
+img {
      width:100%;
      margin-bottom:0px;
      margin-top:0px;
     margin-left:auto;
     margin-right:auto; 
-    
-    
-     
-        }
+     }
 
-Figure{
+Figure {
      margin-bottom:32px;    
        }
        
