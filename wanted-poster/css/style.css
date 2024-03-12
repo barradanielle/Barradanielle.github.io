@@ -103,8 +103,7 @@ h5  {
     background-color:black;
     color:white;
     text-align:center;
-    
-    
+      
      }
 /* Section & Paragraph */
 Section {
@@ -122,8 +121,6 @@ p{
     padding-right:1rem;
     width:90%;   
 }
-
-
 /* Image & Figure */
 img {
      width:100%;
@@ -139,14 +136,9 @@ Figure {
        
 figcaption {
     padding-top:0.5rem; 
-    text-align:right;
-    
-    
-    
-           }
+    text-align:right;          }
 
 /* Footer */
-
 
 footer{
     
