@@ -54,6 +54,7 @@ main {
 
 
 /* Headings  */
+
 h1,
 h2,
 h3,
@@ -64,6 +65,7 @@ h5 {
     font-family: 'Alfa Slab One', Garamond, serif;
     text-align: center;
     margin: 0;
+}
 h1 {
     font-size: 6rem;
     letter-spacing: 0.5rem;
