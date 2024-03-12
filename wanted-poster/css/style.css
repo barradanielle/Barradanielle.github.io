@@ -54,17 +54,21 @@ main {
 
 
 /* Headings  */
-
-h1 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     text-transform: uppercase;
-    font-size:6rem;
+    color: darkred;
+    font-family: 'Alfa Slab One', Garamond, serif;
+    text-align: center;
     margin: 0;
-    letter-spacing: .5rem;
-    color:darkred;
-    text-shadow:.09375rem .09375rem .09375rem #000;
-    font-family:'Alfa Slab One', Garamond, serif;
-    text-align:center;
-    color:red;
+}
+h1 {
+    font-size: 6rem;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.09375rem 0.09375rem 0.09375rem #000;
 }
  h2 {
      font-size:3rem;
