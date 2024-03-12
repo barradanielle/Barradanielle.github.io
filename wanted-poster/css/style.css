@@ -67,34 +67,34 @@ h1 {
     color:red;
 }
  h2 {
-     font-size:48px;
-     letter-spacing:.4px;
+     font-size:3rem;
+     letter-spacing:.0.025rem;
      font-weight:normal;
      color:red;
      font-weight:normal;
      text-align:center;     
  }
  h3 {
-    font-size:32px;
+    font-size:2rem;
     font-weight:normal;
     text-shadow:no;
     text-align:center;
-    foreground-color:black;
+    color:black;
  }
 h4  {
-    font-size:24px;
-    letter-spacing:4px;
-    font-weight: 4px;
-    bottom padding:18px;
+    font-size:1.5rem;
+    letter-spacing:0.25rem;
+    font-weight:normal;
+    bottom padding:1.125rem;
     text-align:center;
 } 
 h5  {
-    font-size:16px;
-    margin-top:4px;
-    padding-bottom:8px;
-    padding-left:8px;
-    padding-right:8px;
-    padding-top:8px;
+    font-size:1rem;
+    margin-top:0.25em;
+    padding-bottom:0.5rem;
+    padding-left:0.5rem;
+    padding-right:0.5rem;
+    padding-top:0.5rem;
     background-color:black;
     color:white;
     text-align:center;
@@ -103,18 +103,18 @@ h5  {
      }
 /* Section & Paragraph */
 Section {
-    margin-top:8px;
+    margin-top:0.5rem;
 }
 
 p{
-    margin-bottom:16px;
-    margin-top:16px;
+    margin-bottom:1rem;
+    margin-top:1rem;
     margin-left:auto;
     margin-right:auto;
     padding-top:0;
     padding-bottom:0;
-    padding-left:16px;
-    padding-right:16px;
+    padding-left:1rem;
+    padding-right:1rem;
     width:90%;   
 }
 
@@ -122,18 +122,18 @@ p{
 /* Image & Figure */
 img {
      width:100%;
-     margin-bottom:0px;
-     margin-top:0px;
+     margin-bottom:0;
+     margin-top:0;
     margin-left:auto;
     margin-right:auto; 
      }
 
 Figure {
-     margin-bottom:32px;    
+     margin-bottom:2rem;    
        }
        
 figcaption {
-    padding-top:8px; 
+    padding-top:0.5rem; 
     text-align:right;
     
     
@@ -145,10 +145,10 @@ figcaption {
 
 footer{
     
-   padding-bottom:16px;
-   padding-left:16px;
-    padding-top:16px;
-    padding-right:16px;
-   border-top:solid #333 32px;
+   padding-bottom:1rem;
+   padding-left:1rem;
+    padding-top:1rem;
+    padding-right:1rem;
+   border-top:solid #333 2rem;
    
 }
